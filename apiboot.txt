@@ -1,0 +1,29 @@
+#Replace the text as needed in the following lines 1) API key required, 2) Uncomment one
+#query option for the api to search against, 3) Temperature units english or metric
+# 
+#API key (obtain from weather underground) 
+=c9bb9527c4bf405ba18201045212805
+# 
+#Query by State (example is IN) and City (example is Indianapolis) - leave the double // between state and city
+Sacramento&days=1&aqi=no
+# 
+#Query by City outside of the USA - leave the double // between country and city
+#France//Paris
+# 
+#Query by AutoIP Address Location
+#autoip
+# 
+#Query by Zip or Postal Code
+#33141
+# 
+#Query by Airport Code
+#MIA
+# 
+#Query by Latitude, Longitude Coordinates
+#25.7907,80.1300
+# 
+#Query by Personal weather station (example is Miami Beach KFLMIAMI96)
+#pws:KFLMIAMI96
+#
+#Specify the units of temperature to display in 'english' (degrees F) or 'metric' (degrees C)
+english
